@@ -1,3 +1,0 @@
-
-Syoutprintln("Test")
-
