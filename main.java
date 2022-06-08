@@ -1,1 +1,1 @@
-System.AOT.println(ERENNN "JÄÄÄÄGER"!);
+System.out.println("Test");
